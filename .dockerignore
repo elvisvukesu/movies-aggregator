@@ -1,0 +1,5 @@
+dockerfile
+.gitignore
+sonar-project.properties
+/node_modules
+/build
